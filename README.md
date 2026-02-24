@@ -275,7 +275,6 @@ python charts/post_training_analysis.py --auto-find --analysis-type quick
 
 #### **🔬 Comprehensive Analysis**
 python charts/post_training_analysis.py --auto-find --analysis-type comprehensive
-```
 - Multiple confusion matrices (thresholds: 0.3, 0.5, 0.7)
 - ROC analysis with optimal point identification
 - Precision-recall curves with average precision
