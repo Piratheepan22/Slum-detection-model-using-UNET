@@ -204,3 +204,8 @@ charts/analysis_*/
 *.bin
 *.dat
 *.db
+
+!images/
+!images/*.png
+!images/*.jpg
+!images/*.jpeg
