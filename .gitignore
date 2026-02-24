@@ -1,8 +1,4 @@
 # Python
-!images/
-!images/*.png
-!images/*.jpg
-!images/*.jpeg
 
 __pycache__/
 *.py[cod]
@@ -185,7 +181,7 @@ release_*/
 
 # Analysis outputs (keep only latest)
 charts/analysis_*/
-*.png
+# *.png
 *.jpg
 *.jpeg
 *.pdf
